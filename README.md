@@ -24,7 +24,8 @@ Once you complete the challenge, you'll:
 
 ### The Test
 
-- Use react to build out what you see in [this Figma link](https://www.figma.com/file/3LB4kjUhhXVN1cBU2QPIpu/DYODE-Developer-Test?node-id=0%3A1).
+- Use a javascript framework to build out what you see in [this Figma link](https://www.figma.com/file/3LB4kjUhhXVN1cBU2QPIpu/DYODE-Developer-Test?node-id=0%3A1).
+  - Acceptable frameworks: React, Next, Gatsby, Vue, Nuxt
 - This should be built responsive using the mobile first philosophy.
 - It contains two carousels, a hero carousel and a product carousel.
 - Please find a good responsive carousel dependency to use.
