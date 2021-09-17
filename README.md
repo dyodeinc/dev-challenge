@@ -6,8 +6,8 @@
 
 1. Write a function with Stencil Utils that will return the contents of the cart object. With the response data, check if the a specific product exists in the cart. If true, then add a different product to the cart.
 2. Using Front Matter, declare the following properties to be utilized in a new store page. What restrictions should be known when writing Front Matter?
-   - 15 top seller products, loop through with handlebars to display the name and price in an HTML structure for a carousel plugin.
-   - Cart, loop through with handlebars and display each item names and prices if more than 1 item exists.
+   1. 15 top seller products, loop through with handlebars to display the name and price in an HTML structure for a carousel plugin.
+   2. Cart, loop through with handlebars and display each item names and prices if more than 1 item exists.
 3. Write your own Custom page template to display the 15 top seller products and cart HTML from question #2. What file structure would your template have to be in? What is required to insure local dev does not break?
 4. Describe how you would add a javascript plugin.
 5. Describe the importance of Page composition and why the `{{partial}}` and `{{block}}` helpers are useful.
