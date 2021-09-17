@@ -1,18 +1,16 @@
 # DYODE. Dev Challenges
 
-## Liquid Challenge
+## BigCommerce Proficiency Questions
 
-#### These questions should be answered with real world solutions in liquid
+#### These questions should be answered with real world solutions
 
-1. Describe how you would make a line of text in a homepage section editable from theme customization and how you would access this in liquid.
-2. How would you add the collection featured image as a banner on the collection liquid template?
-3. Using liquid code and HTML, create a simple pagination container, "< 1 2 ... 5 >".
-4. Using liquid code, access the product named "Blue T-Shirt". Store the id, title, handle, price, url, and image in variables.
-5. Using liquid code, create a key:value array using the list below. Loop through the array. Upon key type, store the value in a variable to be used later:
-   - fruit:apple
-   - vegetable:carrot
-   - cloth:t-shirt
-   - denim:jeans
+1. Write a function with Stencil Utils that will return the contents of the cart object. With the response data, check if the a specific product exists in the cart. If true, then add a different product to the cart.
+2. Using Front Matter, declare the following properties to be utilized in a new store page. What restrictions should be known when writing Front Matter?
+   - 15 top seller products, loop through with handlebars to display the name and price in an HTML structure for a carousel plugin.
+   - Cart, loop through with handlebars and display each item names and prices if more than 1 item exists.
+3. Write your own Custom page template to display the 15 top seller products and cart HTML from question #2. What file structure would your template have to be in? What is required to insure local dev does not break?
+4. Describe how you would add a javascript plugin.
+5. Describe the importance of Page composition and why the `{{partial}}` and `{{block}}` helpers are useful.
 
 ## Frontend Challenge
 
