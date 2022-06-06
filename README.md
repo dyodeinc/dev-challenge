@@ -4,6 +4,8 @@
 
 #### These questions should be answered with real world solutions in liquid
 
+##### \*Please provide these answers in written form
+
 1. Describe how you would make a line of text in a homepage section editable from theme customization and how you would access this in liquid.
 2. How would you add the collection featured image as a banner on the collection liquid template?
 3. Using liquid code and HTML, create a simple pagination container, "< 1 2 ... 5 >".
