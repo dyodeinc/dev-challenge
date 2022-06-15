@@ -31,7 +31,7 @@ Once you complete the challenge, you'll:
 - This should be built responsive using the mobile first philosophy.
 - It contains two carousels, a hero carousel and a product carousel.
 - Please find a good responsive carousel dependency to use.
-- Please refrain from using any responsive libraries ie: Bootstrap, Material Ui, Foundation.
+- Please refrain from using any style libraries ie: Bootstrap, Material Ui, Foundation, etc...
 
 #### What we're looking for:
 
